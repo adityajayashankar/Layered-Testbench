@@ -1,2 +1,2 @@
-# layered_TB
+# Layered Testbench
 Layered Testbench for Sequence detector 
